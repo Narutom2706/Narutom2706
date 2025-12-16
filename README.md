@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Audry Tom</h1>
 <h3 align="center">A passionate dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narutom2706" alt="narutom2706" /></a> </p>
-
 - 🔭 I’m currently working on [Helden Ring](https://github.com/Narutom2706/Helden_Ring)
 
 - 🌱 I’m currently learning **JavaScript**
