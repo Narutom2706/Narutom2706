@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Audry Tom</h1>
 <h3 align="center">A passionate dev</h3>
 
-- 🔭 I’m currently working on [Helden Ring](https://github.com/Narutom2706/Helden_Ring)
+- 🔭 I’m currently working on [Helden Ring](https://www.nexusmods.com/eldenring/mods/7270) on Nexus Mod
 
 - 🌱 I’m currently learning **JavaScript**
 
